@@ -22,7 +22,7 @@
 - DOM manipulation with jQuery
 - Event handling with jQuery
 
-### [Day 3](day_1/)
+### [Day 3](day_3/)
 - Introduction to Angular
 - Data binding
 - Modules
@@ -31,7 +31,7 @@
 - $http
 - $routeProvider
 
-### [Day 4](day_2/)
+### [Day 4](day_4/)
 - Animations
 - Factories
 - $resource
