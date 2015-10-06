@@ -107,12 +107,6 @@ CSS
 - We will code together the "Jumbotron Narrow" template located [here](http://getbootstrap.com/examples/jumbotron-narrow/).
 - Before we start, let's also plan out our grid system.
 
-## In-Class Lab
-- For this lab we will be coding from scratch [this Bootstrap template](http://getbootstrap.com/examples/offcanvas/).
-- Try not to look at the code through the code inspector! X-(
-- First plan out the grid you will use, then figure out which components you will need.
-	- Hint: There is a jumbotron in there.
-
 ## CSS Transitions
 - Transitions allow you to go between element states smoothly.
 - You will often use these for animations with CSS.
@@ -143,9 +137,9 @@ Let's take a look at an example:
 - You can specify `all` instead of each property to animate the entire state.
 
 ## In-Class Lab
-- For this lab we will be creating a personal resume page.
-- The mockup for this project can be found [here](resume_mockup.png).
-- You have the flexibility to choose how you will accomplish this, but it is recommended to use Bootstrap to prototype the page quickly.
+- For this lab we will be coding from scratch [this Bootstrap template](http://getbootstrap.com/examples/offcanvas/).
+- Try not to look at the code through the code inspector to determine how the grid works.
+- First plan out the grid you will use, then figure out which components you will need.
 
 ## What is jQuery?
 
