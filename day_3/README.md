@@ -4,8 +4,8 @@
 - Angular also gives us a clean format for writing single-page applications (SPAs).
 
 ##Install Software
-- [Install NodeJS](https://nodejs.org/)
-- [Install simplehttpserver](https://github.com/andrewpthorp/simple-http-server/)
+- [Install Python](https://www.python.org/)
+- We will be using a package called SimpleHTTPServer built in to Python to run our applications.
 
 ##App Setup
 - Angular apps have some basic configuration that we need to do before they can be run.
